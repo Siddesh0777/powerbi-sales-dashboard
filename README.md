@@ -1,8 +1,10 @@
 powerbi-sales-dashboard
 │
-├── sales(2014-2017).pdf
+├── dashboard_page1.png
+├── dashboard_page2.png
 ├── sales_dashboard.pbix
-├── Superstore_dataset.csv
+├── superstore_dataset.csv
+├── sales_2014_2017_dashboard.pdf
 └── README.md
 
 # Power BI Sales Dashboard
