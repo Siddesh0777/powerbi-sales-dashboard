@@ -42,3 +42,11 @@ Business Intelligence
 sales_dashboard.pbix – Power BI report file  
 sales 2014-2017.pdf – Dashboard export  
 Superstore dataset.csv – Original dataset
+
+## Dashboard Preview
+
+### Executive Overview
+![Dashboard1](dashboard_page1.png)
+
+### Sales Deep Analysis
+![Dashboard2](dashboard_page2.png)
